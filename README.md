@@ -30,7 +30,7 @@ Usage:
 The most commonly used paaws commands are:
     app         create, scale, cmd, ls, ps, deploy, link an app.
     database    launch, destroy, ls, detail a database.
-    cache       launch, destroy, ls detail a cache.
+    cache       launch, destroy, ls, detail a cache.
     link	link resources with apps.
     help        show paaws help.
 ```
